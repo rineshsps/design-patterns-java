@@ -1,4 +1,4 @@
-package org.prateek.SOLIDPrinciples.GoodCode;
+package org.prateek.SOLIDPrinciples.LSP.GoodCode;
 
 public class ReadOnlyFile extends ReadableFile{
 }

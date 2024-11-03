@@ -64,6 +64,4 @@ public class RideSharingAppService {
         double dy = one.getLongitude() - two.getLongitude();
         return Math.sqrt(dx*dx + dy*dy);
     }
-
-
 }

@@ -1,4 +1,4 @@
-package org.prateek.SOLIDPrinciples.GoodCode;
+package org.prateek.SOLIDPrinciples.LSP.GoodCode;
 
 public class ReadableFile implements Readable{
     public void read(){
